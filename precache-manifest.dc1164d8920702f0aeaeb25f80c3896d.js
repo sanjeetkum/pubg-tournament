@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a59ffe2643885292d99c0bdac93b68ce",
+    "revision": "14ad023d5ab7a1abdc0493e4a6dec18e",
     "url": "/pubg-tournament/index.html"
   },
   {
