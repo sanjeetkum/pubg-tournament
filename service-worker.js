@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pubg-tournament/precache-manifest.12b51b9374ace7e34c600cfa97354cd4.js"
+  "/pubg-tournament/precache-manifest.7cc5edcee764b9704d06146ead2fc7bd.js"
 );
 
 self.addEventListener('message', (event) => {
