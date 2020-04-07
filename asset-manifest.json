@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pubg-tournament/static/css/main.cd68a29a.chunk.css",
-    "main.js": "/pubg-tournament/static/js/main.ea6d50f3.chunk.js",
-    "main.js.map": "/pubg-tournament/static/js/main.ea6d50f3.chunk.js.map",
+    "main.js": "/pubg-tournament/static/js/main.0281d977.chunk.js",
+    "main.js.map": "/pubg-tournament/static/js/main.0281d977.chunk.js.map",
     "runtime-main.js": "/pubg-tournament/static/js/runtime-main.4865f4ad.js",
     "runtime-main.js.map": "/pubg-tournament/static/js/runtime-main.4865f4ad.js.map",
     "static/css/2.d788185a.chunk.css": "/pubg-tournament/static/css/2.d788185a.chunk.css",
     "static/js/2.24048c34.chunk.js": "/pubg-tournament/static/js/2.24048c34.chunk.js",
     "static/js/2.24048c34.chunk.js.map": "/pubg-tournament/static/js/2.24048c34.chunk.js.map",
     "index.html": "/pubg-tournament/index.html",
-    "precache-manifest.7cc5edcee764b9704d06146ead2fc7bd.js": "/pubg-tournament/precache-manifest.7cc5edcee764b9704d06146ead2fc7bd.js",
+    "precache-manifest.916a6f299488c44f14785570a70bed5d.js": "/pubg-tournament/precache-manifest.916a6f299488c44f14785570a70bed5d.js",
     "service-worker.js": "/pubg-tournament/service-worker.js",
     "static/css/2.d788185a.chunk.css.map": "/pubg-tournament/static/css/2.d788185a.chunk.css.map",
     "static/css/main.cd68a29a.chunk.css.map": "/pubg-tournament/static/css/main.cd68a29a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d788185a.chunk.css",
     "static/js/2.24048c34.chunk.js",
     "static/css/main.cd68a29a.chunk.css",
-    "static/js/main.ea6d50f3.chunk.js"
+    "static/js/main.0281d977.chunk.js"
   ]
 }
