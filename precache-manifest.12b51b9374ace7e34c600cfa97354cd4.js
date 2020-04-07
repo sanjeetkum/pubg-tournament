@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce1406446bb9bfde64c2d952634725e5",
+    "revision": "3ff830a5c5f7663636cb385a9b845261",
     "url": "/pubg-tournament/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pubg-tournament/static/css/2.d788185a.chunk.css"
   },
   {
-    "revision": "2be2fa289a0f5df277d1",
+    "revision": "1bff2c1142e0d1668518",
     "url": "/pubg-tournament/static/css/main.cd68a29a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pubg-tournament/static/js/2.24048c34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2be2fa289a0f5df277d1",
-    "url": "/pubg-tournament/static/js/main.e0384ca6.chunk.js"
+    "revision": "1bff2c1142e0d1668518",
+    "url": "/pubg-tournament/static/js/main.cf69cbed.chunk.js"
   },
   {
     "revision": "050d1e1a3faac1b53cab",
